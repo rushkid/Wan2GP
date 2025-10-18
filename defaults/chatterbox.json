@@ -4,6 +4,7 @@
         "architecture": "chatterbox",
         "description": "Resemble AI's open multilingual TTS with language selection via model mode.",
         "URLs": []
+		"visible": false
     },
 	"prompt": "Welcome to Chatterbox !",
 	"negative_prompt": "",
